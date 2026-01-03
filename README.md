@@ -23,3 +23,5 @@ Uses Firebase Firestore as backend for storing tasks.
 - CSS
 - JavaScript
 - Firebase Firestore
+
+**Add your Firebase config before running.**
